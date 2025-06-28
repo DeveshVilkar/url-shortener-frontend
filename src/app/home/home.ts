@@ -21,7 +21,7 @@ export class Home {
     if (!this.longUrl.trim()) return;
     this.urlService.getShortenedUrl(this.longUrl).subscribe({
       next:(response) => {
-        this.shortUrl=response;
+        this.shortUrl=response.shortUrl;
       },
       error:(err) => {
         console.log(err);
