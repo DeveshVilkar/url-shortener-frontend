@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/ddecc67e-7b38-4bb3-a5ce-41ac9b98ea56)# 🔗 URL Shortener Application
+![image](https://github.com/user-attachments/assets/44b5a097-2462-4d53-b748-fa5378737647)
+ 🔗 URL Shortener Application
 
 A full-stack URL shortener web application that allows users to generate shortened URLs and automatically redirect to the original long URLs. Built with Angular 20, Node.js, Express.js,  Tailwind css and MongoDB Atlas. Deployed with Vercel (frontend) and Render (backend).
 
